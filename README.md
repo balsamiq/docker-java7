@@ -11,7 +11,7 @@ First install docker by following the instructions here:
 
     https://www.docker.io/gettingstarted/#h_installation
 
-Then clone the repo and run the following command in the docker-opencv directory:
+Then clone the repo and run the following command in the docker-java7 directory:
 
     docker build  .
 
